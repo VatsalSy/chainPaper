@@ -1,0 +1,153 @@
+%merlin.mbs aipauth4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+%Control: key (0)
+%Control: author (9) reversed initials
+%Control: editor formatted (0) differently from author
+%Control: production of article title (0) allowed
+%Control: page (1) range
+%Control: year (1) truncated
+%Control: production of eprint (0) enabled
+\begin{thebibliography}{10}%
+\makeatletter
+\providecommand \@ifxundefined [1]{%
+ \@ifx{#1\undefined}
+}%
+\providecommand \@ifnum [1]{%
+ \ifnum #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \@ifx [1]{%
+ \ifx #1\expandafter \@firstoftwo
+ \else \expandafter \@secondoftwo
+ \fi
+}%
+\providecommand \natexlab [1]{#1}%
+\providecommand \enquote  [1]{``#1''}%
+\providecommand \bibnamefont  [1]{#1}%
+\providecommand \bibfnamefont [1]{#1}%
+\providecommand \citenamefont [1]{#1}%
+\providecommand \href@noop [0]{\@secondoftwo}%
+\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
+\providecommand \@href[1]{\@@startlink{#1}\@@href}%
+\providecommand \@@href[1]{\endgroup#1\@@endlink}%
+\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
+  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
+\providecommand \@@startlink[1]{}%
+\providecommand \@@endlink[0]{}%
+\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
+\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
+\providecommand \urlprefix  [0]{URL }%
+\providecommand \Eprint [0]{\href }%
+\providecommand \doibase [0]{http://dx.doi.org/}%
+\providecommand \selectlanguage [0]{\@gobble}%
+\providecommand \bibinfo  [0]{\@secondoftwo}%
+\providecommand \bibfield  [0]{\@secondoftwo}%
+\providecommand \translation [1]{[#1]}%
+\providecommand \BibitemOpen [0]{}%
+\providecommand \bibitemStop [0]{}%
+\providecommand \bibitemNoStop [0]{.\EOS\space}%
+\providecommand \EOS [0]{\spacefactor3000\relax}%
+\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
+\let\auto@bib@innerbib\@empty
+%</preamble>
+\bibitem [{\citenamefont {Bell}, \citenamefont {Colella},\ and\ \citenamefont
+  {Glaz}(1989)}]{bell1989second}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Bell}, \bibfnamefont
+  {J.~B.}}, \bibinfo {author} {\bibnamefont {Colella}, \bibfnamefont {P.}}, \
+  and\ \bibinfo {author} {\bibnamefont {Glaz}, \bibfnamefont {H.~M.}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {A second-order projection
+  method for the incompressible navier-stokes equations},}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Computational
+  Physics}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo {pages} {257--283}
+  (\bibinfo {year} {1989})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Bush}\ and\ \citenamefont
+  {Hasha}(2004)}]{bush2004collision}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Bush}, \bibfnamefont
+  {J.~W.}}\ and\ \bibinfo {author} {\bibnamefont {Hasha}, \bibfnamefont
+  {A.~E.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {On the collision
+  of laminar jets: fluid chains and fishbones},}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Journal of fluid mechanics}\ }\textbf
+  {\bibinfo {volume} {511}},\ \bibinfo {pages} {285--310} (\bibinfo {year}
+  {2004})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Chen}\ \emph {et~al.}(2013)\citenamefont {Chen},
+  \citenamefont {Ma}, \citenamefont {Yang},\ and\ \citenamefont
+  {Popinet}}]{chen2013high}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Chen}, \bibfnamefont
+  {X.}}, \bibinfo {author} {\bibnamefont {Ma}, \bibfnamefont {D.}}, \bibinfo
+  {author} {\bibnamefont {Yang}, \bibfnamefont {V.}}, \ and\ \bibinfo {author}
+  {\bibnamefont {Popinet}, \bibfnamefont {S.}},\ }\bibfield  {title} {\enquote
+  {\bibinfo {title} {High-fidelity simulations of impinging jet atomization},}\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Atomization and
+  Sprays}\ }\textbf {\bibinfo {volume} {23}} (\bibinfo {year}
+  {2013})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Chorin}(1968)}]{Chorin1968}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Chorin}, \bibfnamefont
+  {A.~J.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Numerical
+  solution of the navier-stokes equations},}\ }\href@noop {} {\bibfield
+  {journal} {\bibinfo  {journal} {Mathematics of computation}\ }\textbf
+  {\bibinfo {volume} {22}},\ \bibinfo {pages} {745--762} (\bibinfo {year}
+  {1968})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Hasson}\ and\ \citenamefont
+  {Peck}(1964)}]{hasson1964thickness}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Hasson}, \bibfnamefont
+  {D.}}\ and\ \bibinfo {author} {\bibnamefont {Peck}, \bibfnamefont {R.~E.}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Thickness distribution in a
+  sheet formed by impinging jets},}\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {AIChE Journal}\ }\textbf {\bibinfo {volume} {10}},\
+  \bibinfo {pages} {752--754} (\bibinfo {year} {1964})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kumar}, \citenamefont {Das},\ and\ \citenamefont
+  {Mitra}(2016)}]{kumar2016physical}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Kumar}, \bibfnamefont
+  {P.}}, \bibinfo {author} {\bibnamefont {Das}, \bibfnamefont {A.~K.}}, \ and\
+  \bibinfo {author} {\bibnamefont {Mitra}, \bibfnamefont {S.~K.}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {Physical understanding of gas-liquid
+  annular flow and its transition to dispersed droplets},}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physics of Fluids}\ }\textbf
+  {\bibinfo {volume} {28}},\ \bibinfo {pages} {072101} (\bibinfo {year}
+  {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Kumar}, \citenamefont {Das},\ and\ \citenamefont
+  {Mitra}(2017)}]{kumar2017bending}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Kumar}, \bibfnamefont
+  {P.}}, \bibinfo {author} {\bibnamefont {Das}, \bibfnamefont {A.~K.}}, \ and\
+  \bibinfo {author} {\bibnamefont {Mitra}, \bibfnamefont {S.~K.}},\ }\bibfield
+  {title} {\enquote {\bibinfo {title} {Bending and growth of entrained air
+  filament under converging and asymmetric rotational fields},}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Physics of Fluids}\ }\textbf
+  {\bibinfo {volume} {29}},\ \bibinfo {pages} {022101} (\bibinfo {year}
+  {2017})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Ling}, \citenamefont {Zaleski},\ and\ \citenamefont
+  {Scardovelli}(2015)}]{ling2015multiscale}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Ling}, \bibfnamefont
+  {Y.}}, \bibinfo {author} {\bibnamefont {Zaleski}, \bibfnamefont {S.}}, \ and\
+  \bibinfo {author} {\bibnamefont {Scardovelli}, \bibfnamefont {R.}},\
+  }\bibfield  {title} {\enquote {\bibinfo {title} {Multiscale simulation of
+  atomization with small droplets represented by a lagrangian point-particle
+  model},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {International Journal of Multiphase Flow}\ }\textbf {\bibinfo {volume}
+  {76}},\ \bibinfo {pages} {122--143} (\bibinfo {year} {2015})}\BibitemShut
+  {NoStop}%
+\bibitem [{\citenamefont {Popinet}(2003)}]{Popinet2003}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Popinet}, \bibfnamefont
+  {S.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Gerris: a tree-based
+  adaptive solver for the incompressible euler equations in complex
+  geometries},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Journal of Computational Physics}\ }\textbf {\bibinfo {volume} {190}},\
+  \bibinfo {pages} {572--600} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Popinet}(2009)}]{popinet2009}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Popinet}, \bibfnamefont
+  {S.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {An accurate adaptive
+  solver for surface-tension-driven interfacial flows},}\ }\href@noop {}
+  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Computational
+  Physics}\ }\textbf {\bibinfo {volume} {228}},\ \bibinfo {pages} {5838--5866}
+  (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
+\end{thebibliography}%
