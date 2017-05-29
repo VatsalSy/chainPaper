@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.7)  26 MAY 2017 17:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.7)  29 MAY 2017 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,29 +764,29 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 52.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package epstopdf Info: Source file: <figures/schematic.eps>
-(epstopdf)                    date: 2017-05-25 02:23:11
-(epstopdf)                    size: 123903 bytes
+(epstopdf)                    date: 2017-05-27 20:42:16
+(epstopdf)                    size: 507097 bytes
 (epstopdf)             Output file: <figures/schematic-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-25 02:24:59
-(epstopdf)                    size: 104164 bytes
+(epstopdf)                    date: 2017-05-29 12:44:51
+(epstopdf)                    size: 232394 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/schematic-eps-conv
 erted-to.pdf figures/schematic.eps>
 (epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/schematic-eps-converted-to.pdf, id=17, 534.99875pt x 712.6625pt>
+<figures/schematic-eps-converted-to.pdf, id=17, 1132.23pt x 721.69624pt>
 File: figures/schematic-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/schematic-eps-converted-to.pdf>
 Package pdftex.def Info: figures/schematic-eps-converted-to.pdf used on input l
 ine 56.
-(pdftex.def)             Requested size: 280.80286pt x 374.06642pt.
+(pdftex.def)             Requested size: 468.0pt x 298.30904pt.
  [2 <./figures/schematic-eps-converted-to.pdf>] [3] [4] [5] [6] [7]
 Package epstopdf Info: Source file: <figures/figGIS.eps>
 (epstopdf)                    date: 2017-05-11 14:46:13
 (epstopdf)                    size: 2472139 bytes
 (epstopdf)             Output file: <figures/figGIS-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-11 14:46:28
+(epstopdf)                    date: 2017-05-29 12:44:53
 (epstopdf)                    size: 1515849 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/figGIS-eps-convert
 ed-to.pdf figures/figGIS.eps>
@@ -800,24 +800,24 @@ File: figures/figGIS-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: figures/figGIS-eps-converted-to.pdf used on input line
  96.
 (pdftex.def)             Requested size: 468.0pt x 164.70581pt.
- [8 <./figures/figGIS-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/gis.eps>
-(epstopdf)                    date: 2017-05-23 19:03:42
-(epstopdf)                    size: 57645 bytes
+(epstopdf)                    date: 2017-05-28 20:26:56
+(epstopdf)                    size: 57260 bytes
 (epstopdf)             Output file: <figures/gis-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-23 19:13:03
-(epstopdf)                    size: 51573 bytes
+(epstopdf)                    date: 2017-05-29 12:44:53
+(epstopdf)                    size: 51344 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/gis-eps-converted-
 to.pdf figures/gis.eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
- <figures/gis-eps-converted-to.pdf, id=60, 864.22874pt x 487.8225pt>
+
+<figures/gis-eps-converted-to.pdf, id=49, 844.15375pt x 484.81125pt>
 File: figures/gis-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/gis-eps-converted-to.pdf>
 Package pdftex.def Info: figures/gis-eps-converted-to.pdf used on input line 10
 6.
-(pdftex.def)             Requested size: 468.0pt x 264.16458pt.
+(pdftex.def)             Requested size: 468.0pt x 268.78491pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
@@ -827,193 +827,232 @@ Package epstopdf Info: Source file: <figures/validation.eps>
 (epstopdf)                    date: 2017-05-09 16:07:52
 (epstopdf)                    size: 89347 bytes
 (epstopdf)             Output file: <figures/validation-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-09 18:50:31
+(epstopdf)                    date: 2017-05-29 12:44:54
 (epstopdf)                    size: 82346 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/validation-eps-con
 verted-to.pdf figures/validation.eps>
 (epstopdf)             \includegraphics on input line 125.
 Package epstopdf Info: Output file is already uptodate.
-<figures/validation-eps-converted-to.pdf, id=61, 753.81625pt x 477.785pt>
+<figures/validation-eps-converted-to.pdf, id=50, 753.81625pt x 477.785pt>
 File: figures/validation-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/validation-eps-converted-to.pdf>
 Package pdftex.def Info: figures/validation-eps-converted-to.pdf used on input 
 line 125.
 (pdftex.def)             Requested size: 468.0pt x 296.6246pt.
- [9 <./figures/gis-eps-converted-to.pdf>] [10] [11 <./figures/validation-eps-co
-nverted-to.pdf>]
+ [8] [9 <./figures/figGIS-eps-converted-to.pdf>] [10 <./figures/gis-eps-convert
+ed-to.pdf>] [11 <./figures/validation-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/fig0.eps>
-(epstopdf)                    date: 2017-05-25 23:25:20
-(epstopdf)                    size: 344476 bytes
+(epstopdf)                    date: 2017-05-27 00:42:23
+(epstopdf)                    size: 345494 bytes
 (epstopdf)             Output file: <figures/fig0-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-25 23:26:51
-(epstopdf)                    size: 171671 bytes
+(epstopdf)                    date: 2017-05-29 12:44:54
+(epstopdf)                    size: 174925 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/fig0-eps-converted
 -to.pdf figures/fig0.eps>
-(epstopdf)             \includegraphics on input line 137.
+(epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/fig0-eps-converted-to.pdf, id=77, 1379.1525pt x 719.68875pt>
+<figures/fig0-eps-converted-to.pdf, id=77, 1445.4pt x 722.7pt>
 File: figures/fig0-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/fig0-eps-converted-to.pdf>
 Package pdftex.def Info: figures/fig0-eps-converted-to.pdf used on input line 1
-37.
-(pdftex.def)             Requested size: 468.0pt x 244.21873pt.
- [12] [13 <./figures/fig0-eps-converted-to.pdf>] [14] [15] [16]
-Package epstopdf Info: Source file: <figures/streamlinesDetails.eps>
-(epstopdf)                    date: 2017-05-18 11:58:00
-(epstopdf)                    size: 206042 bytes
-(epstopdf)             Output file: <figures/streamlinesDetails-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2017-05-18 11:58:10
-(epstopdf)                    size: 195844 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/streamlinesDetails
--eps-converted-to.pdf figures/streamlinesDetails.eps>
-(epstopdf)             \includegraphics on input line 150.
+35.
+(pdftex.def)             Requested size: 468.0pt x 233.99251pt.
+ [12] [13 <./figures/fig0-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/velocityVectors.eps>
+(epstopdf)                    date: 2017-05-29 11:22:43
+(epstopdf)                    size: 192939 bytes
+(epstopdf)             Output file: <figures/velocityVectors-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-05-29 12:44:55
+(epstopdf)                    size: 184691 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/velocityVectors-ep
+s-converted-to.pdf figures/velocityVectors.eps>
+(epstopdf)             \includegraphics on input line 143.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/streamlinesDetails-eps-converted-to.pdf, id=97, 810.02625pt x 479.7925
+<figures/velocityVectors-eps-converted-to.pdf, id=88, 1445.4pt x 722.7pt>
+File: figures/velocityVectors-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/velocityVectors-eps-converted-to.pdf>
+Package pdftex.def Info: figures/velocityVectors-eps-converted-to.pdf used on i
+nput line 143.
+(pdftex.def)             Requested size: 468.0pt x 233.99251pt.
+ [14 <./figures/velocityVectors-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/streamlinesDetails.eps>
+(epstopdf)                    date: 2017-05-29 10:12:08
+(epstopdf)                    size: 449424 bytes
+(epstopdf)             Output file: <figures/streamlinesDetails-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-05-29 12:44:55
+(epstopdf)                    size: 409199 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/streamlinesDetails
+-eps-converted-to.pdf figures/streamlinesDetails.eps>
+(epstopdf)             \includegraphics on input line 162.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/streamlinesDetails-eps-converted-to.pdf, id=95, 1296.845pt x 719.68875
 pt>
 File: figures/streamlinesDetails-eps-converted-to.pdf Graphic file (type pdf)
  <use figures/streamlinesDetails-eps-converted-to.pdf>
 Package pdftex.def Info: figures/streamlinesDetails-eps-converted-to.pdf used o
-n input line 150.
-(pdftex.def)             Requested size: 468.0pt x 277.21095pt.
- [17] [18 <./figures/streamlinesDetails-eps-converted-to.pdf>] [19]
-<figures/fig1.pdf, id=111, 933.4875pt x 486.31688pt>
-File: figures/fig1.pdf Graphic file (type pdf)
- <use figures/fig1.pdf>
-Package pdftex.def Info: figures/fig1.pdf used on input line 159.
-(pdftex.def)             Requested size: 468.0pt x 243.81085pt.
-
-[20 <./figures/fig1.pdf>]
-Package epstopdf Info: Source file: <figures/phaseContours.eps>
-(epstopdf)                    date: 2017-05-12 22:08:17
-(epstopdf)                    size: 251363 bytes
-(epstopdf)             Output file: <figures/phaseContours-eps-converted-to.pdf
->
-(epstopdf)                    date: 2017-05-12 22:09:47
-(epstopdf)                    size: 324841 bytes
-(epstopdf)             Command: <repstopdf --outfile=figures/phaseContours-eps-
-converted-to.pdf figures/phaseContours.eps>
-(epstopdf)             \includegraphics on input line 169.
+n input line 162.
+(pdftex.def)             Requested size: 468.0pt x 259.7137pt.
+Package epstopdf Info: Source file: <figures/fig1.eps>
+(epstopdf)                    date: 2017-05-29 13:53:09
+(epstopdf)                    size: 170296 bytes
+(epstopdf)             Output file: <figures/fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-05-29 13:53:13
+(epstopdf)                    size: 137312 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/fig1-eps-converted
+-to.pdf figures/fig1.eps>
+(epstopdf)             \includegraphics on input line 171.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/phaseContours-eps-converted-to.pdf, id=119, 1281.78876pt x 713.66624pt
+<figures/fig1-eps-converted-to.pdf, id=96, 1123.19624pt x 791.95876pt>
+File: figures/fig1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figures/fig1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/fig1-eps-converted-to.pdf used on input line 1
+71.
+(pdftex.def)             Requested size: 468.0pt x 329.97395pt.
+ [15] [16 <./figures/streamlinesDetails-eps-converted-to.pdf>] [17] [18 <./figu
+res/fig1-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 177.
+
+Package epstopdf Info: Source file: <figures/phaseContours.eps>
+(epstopdf)                    date: 2017-05-27 20:16:34
+(epstopdf)                    size: 1215363 bytes
+(epstopdf)             Output file: <figures/phaseContours-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2017-05-29 12:44:56
+(epstopdf)                    size: 982542 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/phaseContours-eps-
+converted-to.pdf figures/phaseContours.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+<figures/phaseContours-eps-converted-to.pdf, id=119, 1412.27625pt x 2667.9675pt
 >
 File: figures/phaseContours-eps-converted-to.pdf Graphic file (type pdf)
  <use figures/phaseContours-eps-converted-to.pdf>
 Package pdftex.def Info: figures/phaseContours-eps-converted-to.pdf used on inp
-ut line 169.
-(pdftex.def)             Requested size: 468.0pt x 260.56767pt.
- [21 <./figures/phaseContours-eps-converted-to.pdf>]
+ut line 189.
+(pdftex.def)             Requested size: 318.23657pt x 601.16241pt.
+
+
+LaTeX Warning: Float too large for page by 15.6499pt on input line 192.
+
 Package epstopdf Info: Source file: <figures/finalContour.eps>
 (epstopdf)                    date: 2017-05-20 14:16:14
 (epstopdf)                    size: 71212 bytes
 (epstopdf)             Output file: <figures/finalContour-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2017-05-20 14:17:04
+(epstopdf)                    date: 2017-05-29 12:44:57
 (epstopdf)                    size: 60702 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/finalContour-eps-c
 onverted-to.pdf figures/finalContour.eps>
-(epstopdf)             \includegraphics on input line 177.
+(epstopdf)             \includegraphics on input line 196.
 Package epstopdf Info: Output file is already uptodate.
-
-<figures/finalContour-eps-converted-to.pdf, id=126, 1208.515pt x 792.9625pt>
+<figures/finalContour-eps-converted-to.pdf, id=120, 1208.515pt x 792.9625pt>
 File: figures/finalContour-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/finalContour-eps-converted-to.pdf>
 Package pdftex.def Info: figures/finalContour-eps-converted-to.pdf used on inpu
-t line 177.
+t line 196.
 (pdftex.def)             Requested size: 468.0pt x 307.07619pt.
- [22 <./figures/finalContour-eps-converted-to.pdf>] [23] [24]
+ [19] [20 <./figures/phaseContours-eps-converted-to.pdf>] [21 <./figures/finalC
+ontour-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/corelatehx.eps>
 (epstopdf)                    date: 2017-05-26 17:33:18
 (epstopdf)                    size: 300854 bytes
 (epstopdf)             Output file: <figures/corelatehx-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-26 17:36:41
+(epstopdf)                    date: 2017-05-29 12:44:57
 (epstopdf)                    size: 319193 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/corelatehx-eps-con
 verted-to.pdf figures/corelatehx.eps>
-(epstopdf)             \includegraphics on input line 188.
+(epstopdf)             \includegraphics on input line 206.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/corelatehx-eps-converted-to.pdf, id=139, 1445.4pt x 722.7pt>
+<figures/corelatehx-eps-converted-to.pdf, id=141, 1445.4pt x 722.7pt>
 File: figures/corelatehx-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/corelatehx-eps-converted-to.pdf>
 Package pdftex.def Info: figures/corelatehx-eps-converted-to.pdf used on input 
-line 188.
+line 206.
 (pdftex.def)             Requested size: 468.0pt x 233.99251pt.
- [25 <./figures/corelatehx-eps-converted-to.pdf>] [26]
+ [22 <./figures/corelatehx-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/analytical.eps>
 (epstopdf)                    date: 2017-05-21 09:16:32
 (epstopdf)                    size: 436962 bytes
 (epstopdf)             Output file: <figures/analytical-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-21 09:18:22
+(epstopdf)                    date: 2017-05-29 12:44:58
 (epstopdf)                    size: 281683 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/analytical-eps-con
 verted-to.pdf figures/analytical.eps>
-(epstopdf)             \includegraphics on input line 197.
+(epstopdf)             \includegraphics on input line 214.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/analytical-eps-converted-to.pdf, id=150, 1288.815pt x 722.7pt>
+<figures/analytical-eps-converted-to.pdf, id=148, 1288.815pt x 722.7pt>
 File: figures/analytical-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/analytical-eps-converted-to.pdf>
 Package pdftex.def Info: figures/analytical-eps-converted-to.pdf used on input 
-line 197.
+line 214.
 (pdftex.def)             Requested size: 468.0pt x 262.43243pt.
- [27] [28 <./figures/analytical-eps-converted-to.pdf>] [29] [30]
+ [23 <./figures/analytical-eps-converted-to.pdf>] [24] [25]
 Package epstopdf Info: Source file: <figures/secondCollision.eps>
 (epstopdf)                    date: 2017-05-26 17:05:35
 (epstopdf)                    size: 482209 bytes
 (epstopdf)             Output file: <figures/secondCollision-eps-converted-to.p
 df>
-(epstopdf)                    date: 2017-05-26 17:05:56
+(epstopdf)                    date: 2017-05-29 12:44:58
 (epstopdf)                    size: 465055 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/secondCollision-ep
 s-converted-to.pdf figures/secondCollision.eps>
-(epstopdf)             \includegraphics on input line 210.
+(epstopdf)             \includegraphics on input line 225.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/secondCollision-eps-converted-to.pdf, id=166, 1445.4pt x 722.7pt>
+<figures/secondCollision-eps-converted-to.pdf, id=162, 1445.4pt x 722.7pt>
 File: figures/secondCollision-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/secondCollision-eps-converted-to.pdf>
 Package pdftex.def Info: figures/secondCollision-eps-converted-to.pdf used on i
-nput line 210.
+nput line 225.
 (pdftex.def)             Requested size: 468.0pt x 233.99251pt.
- [31 <./figures/secondCollision-eps-converted-to.pdf>] [32]
+ [26 <./figures/secondCollision-eps-converted-to.pdf>] [27]
 Package epstopdf Info: Source file: <figures/lil1did1.eps>
-(epstopdf)                    date: 2017-05-21 15:44:17
-(epstopdf)                    size: 278828 bytes
+(epstopdf)                    date: 2017-05-27 00:52:02
+(epstopdf)                    size: 279935 bytes
 (epstopdf)             Output file: <figures/lil1did1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-05-21 15:44:47
-(epstopdf)                    size: 292276 bytes
+(epstopdf)                    date: 2017-05-29 12:44:59
+(epstopdf)                    size: 288351 bytes
 (epstopdf)             Command: <repstopdf --outfile=figures/lil1did1-eps-conve
 rted-to.pdf figures/lil1did1.eps>
-(epstopdf)             \includegraphics on input line 219.
+(epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
 
-<figures/lil1did1-eps-converted-to.pdf, id=177, 1382.16376pt x 721.69624pt>
+<figures/lil1did1-eps-converted-to.pdf, id=172, 1445.4pt x 722.7pt>
 File: figures/lil1did1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figures/lil1did1-eps-converted-to.pdf>
 Package pdftex.def Info: figures/lil1did1-eps-converted-to.pdf used on input li
-ne 219.
-(pdftex.def)             Requested size: 468.0pt x 244.36035pt.
- [33] [34 <./figures/lil1did1-eps-converted-to.pdf>] [35] (./chains.bbl [36] [3
-7]) [38] (./chains.aux) ) 
+ne 234.
+(pdftex.def)             Requested size: 468.0pt x 233.99251pt.
+ [28] [29 <./figures/lil1did1-eps-converted-to.pdf>] [30] (./chains.bbl [31] [3
+2]) [33] (./chains.aux) ) 
 Here is how much of TeX's memory you used:
- 17099 strings out of 493085
- 338155 string characters out of 6136918
- 519052 words of memory out of 5000000
- 20200 multiletter control sequences out of 15000+600000
+ 17133 strings out of 493085
+ 339190 string characters out of 6136918
+ 524455 words of memory out of 5000000
+ 20233 multiletter control sequences out of 15000+600000
  19227 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,17n,67p,5339b,803s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,17n,67p,5486b,838s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
@@ -1030,10 +1069,10 @@ s/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on chains.pdf (38 pages, 4194411 bytes).
+Output written on chains.pdf (33 pages, 5431320 bytes).
 PDF statistics:
- 257 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
+ 250 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
