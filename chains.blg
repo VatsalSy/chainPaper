@@ -15,10 +15,6 @@ Repeated entry---line 214 of file chains.bib
  : @article{yang2014liquid
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 344 of file chains.bib
- : @article{inamura2014effect
- :                           ,
-I'm skipping whatever remains of this entry
 control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
 control{aip41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{0}, control.pages{1}, control.year{N/A}, control.eprint{N/A}, 
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -30,48 +26,47 @@ Control: production of article title (0) allowed
 Control: page (1) range
 Control: year (1) truncated
 Control: production of eprint (0) enabled
-Warning--missing publisher in newtonprincipia
 Warning--can't use both volume and number fields in rayleigh1879capillary
 Warning--can't use both volume and number fields in taylor1960formation
-You've used 41 entries,
+You've used 40 entries,
             5936 wiz_defined-function locations,
-            1859 strings with 21131 characters,
-and the built_in function-call counts, 44820 in all, are:
-= -- 3127
-> -- 1409
-< -- 139
-+ -- 436
-- -- 391
-* -- 7009
-:= -- 4806
-add.period$ -- 75
-call.type$ -- 41
-change.case$ -- 295
-chr.to.int$ -- 43
-cite$ -- 44
-duplicate$ -- 3705
-empty$ -- 3065
-format.name$ -- 567
-if$ -- 8816
+            1855 strings with 21039 characters,
+and the built_in function-call counts, 44134 in all, are:
+= -- 3082
+> -- 1394
+< -- 138
++ -- 429
+- -- 387
+* -- 6923
+:= -- 4717
+add.period$ -- 74
+call.type$ -- 40
+change.case$ -- 290
+chr.to.int$ -- 42
+cite$ -- 42
+duplicate$ -- 3640
+empty$ -- 3004
+format.name$ -- 562
+if$ -- 8685
 int.to.chr$ -- 1
 int.to.str$ -- 8
-missing$ -- 512
-newline$ -- 169
-num.names$ -- 156
-pop$ -- 1581
+missing$ -- 505
+newline$ -- 166
+num.names$ -- 152
+pop$ -- 1549
 preamble$ -- 1
-purify$ -- 294
+purify$ -- 288
 quote$ -- 0
-skip$ -- 1608
+skip$ -- 1580
 stack$ -- 0
-substring$ -- 1334
-swap$ -- 3903
+substring$ -- 1319
+swap$ -- 3856
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 651
-warning$ -- 3
-while$ -- 221
+type$ -- 638
+warning$ -- 2
+while$ -- 217
 width$ -- 0
-write$ -- 393
-(There were 2 error messages)
+write$ -- 386
+(There was 1 error message)
