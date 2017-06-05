@@ -1,445 +1,134 @@
-%merlin.mbs aipauth4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
-%Control: key (0)
-%Control: author (9) reversed initials
-%Control: editor formatted (0) differently from author
-%Control: production of article title (0) allowed
-%Control: page (1) range
-%Control: year (1) truncated
-%Control: production of eprint (0) enabled
-\begin{thebibliography}{38}%
-\makeatletter
-\providecommand \@ifxundefined [1]{%
- \@ifx{#1\undefined}
-}%
-\providecommand \@ifnum [1]{%
- \ifnum #1\expandafter \@firstoftwo
- \else \expandafter \@secondoftwo
- \fi
-}%
-\providecommand \@ifx [1]{%
- \ifx #1\expandafter \@firstoftwo
- \else \expandafter \@secondoftwo
- \fi
-}%
-\providecommand \natexlab [1]{#1}%
-\providecommand \enquote  [1]{``#1''}%
-\providecommand \bibnamefont  [1]{#1}%
-\providecommand \bibfnamefont [1]{#1}%
-\providecommand \citenamefont [1]{#1}%
-\providecommand \href@noop [0]{\@secondoftwo}%
-\providecommand \href [0]{\begingroup \@sanitize@url \@href}%
-\providecommand \@href[1]{\@@startlink{#1}\@@href}%
-\providecommand \@@href[1]{\endgroup#1\@@endlink}%
-\providecommand \@sanitize@url [0]{\catcode `\\12\catcode `\$12\catcode
-  `\&12\catcode `\#12\catcode `\^12\catcode `\_12\catcode `\%12\relax}%
-\providecommand \@@startlink[1]{}%
-\providecommand \@@endlink[0]{}%
-\providecommand \url  [0]{\begingroup\@sanitize@url \@url }%
-\providecommand \@url [1]{\endgroup\@href {#1}{\urlprefix }}%
-\providecommand \urlprefix  [0]{URL }%
-\providecommand \Eprint [0]{\href }%
-\providecommand \doibase [0]{http://dx.doi.org/}%
-\providecommand \selectlanguage [0]{\@gobble}%
-\providecommand \bibinfo  [0]{\@secondoftwo}%
-\providecommand \bibfield  [0]{\@secondoftwo}%
-\providecommand \translation [1]{[#1]}%
-\providecommand \BibitemOpen [0]{}%
-\providecommand \bibitemStop [0]{}%
-\providecommand \bibitemNoStop [0]{.\EOS\space}%
-\providecommand \EOS [0]{\spacefactor3000\relax}%
-\providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
-\let\auto@bib@innerbib\@empty
-%</preamble>
-\bibitem [{\citenamefont {Arienti}\ \emph {et~al.}(2012)\citenamefont
-  {Arienti}, \citenamefont {Li}, \citenamefont {Soteriou}, \citenamefont
-  {Eckett}, \citenamefont {Sussman},\ and\ \citenamefont
-  {Jensen}}]{arienti2012coupled}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Arienti}, \bibfnamefont
-  {M.}}, \bibinfo {author} {\bibnamefont {Li}, \bibfnamefont {X.}}, \bibinfo
-  {author} {\bibnamefont {Soteriou}, \bibfnamefont {M.~C.}}, \bibinfo {author}
-  {\bibnamefont {Eckett}, \bibfnamefont {C.~A.}}, \bibinfo {author}
-  {\bibnamefont {Sussman}, \bibfnamefont {M.}}, \ and\ \bibinfo {author}
-  {\bibnamefont {Jensen}, \bibfnamefont {R.}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Coupled level-set/volume-of-fluid method for simulation of
-  injector atomization},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-  {journal} {Journal of Propulsion and Power}\ }\textbf {\bibinfo {volume}
-  {29}},\ \bibinfo {pages} {147--157} (\bibinfo {year} {2012})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Bell}, \citenamefont {Colella},\ and\ \citenamefont
-  {Glaz}(1989)}]{bell1989second}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Bell}, \bibfnamefont
-  {J.~B.}}, \bibinfo {author} {\bibnamefont {Colella}, \bibfnamefont {P.}}, \
-  and\ \bibinfo {author} {\bibnamefont {Glaz}, \bibfnamefont {H.~M.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {A second-order projection
-  method for the incompressible navier-stokes equations},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Computational
-  Physics}\ }\textbf {\bibinfo {volume} {85}},\ \bibinfo {pages} {257--283}
-  (\bibinfo {year} {1989})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Bremond}\ and\ \citenamefont
-  {Villermaux}(2006)}]{bremond2006atomization}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Bremond}, \bibfnamefont
-  {N.}}\ and\ \bibinfo {author} {\bibnamefont {Villermaux}, \bibfnamefont
-  {E.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Atomization by jet
-  impact},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
-  of Fluid Mechanics}\ }\textbf {\bibinfo {volume} {549}},\ \bibinfo {pages}
-  {273--306} (\bibinfo {year} {2006})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Bush}\ and\ \citenamefont
-  {Hasha}(2004)}]{bush2004collision}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Bush}, \bibfnamefont
-  {J.~W.}}\ and\ \bibinfo {author} {\bibnamefont {Hasha}, \bibfnamefont
-  {A.~E.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {On the collision
-  of laminar jets: fluid chains and fishbones},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Journal of fluid mechanics}\ }\textbf
-  {\bibinfo {volume} {511}},\ \bibinfo {pages} {285--310} (\bibinfo {year}
-  {2004})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Chen}\ \emph {et~al.}(2013)\citenamefont {Chen},
-  \citenamefont {Ma}, \citenamefont {Yang},\ and\ \citenamefont
-  {Popinet}}]{chen2013high}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Chen}, \bibfnamefont
-  {X.}}, \bibinfo {author} {\bibnamefont {Ma}, \bibfnamefont {D.}}, \bibinfo
-  {author} {\bibnamefont {Yang}, \bibfnamefont {V.}}, \ and\ \bibinfo {author}
-  {\bibnamefont {Popinet}, \bibfnamefont {S.}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {High-fidelity simulations of impinging jet atomization},}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Atomization and
-  Sprays}\ }\textbf {\bibinfo {volume} {23}} (\bibinfo {year}
-  {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Choo}\ and\ \citenamefont
-  {Kang}(2001)}]{choo2001parametric}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Choo}, \bibfnamefont
-  {Y.}}\ and\ \bibinfo {author} {\bibnamefont {Kang}, \bibfnamefont {B.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Parametric study on
+\begin{thebibliography}{24}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
+  \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
+  \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
+
+\bibitem[Bell {\em et~al.\/}(1989)Bell, Colella \& Glaz]{bell1989second}
+{\sc \au{Bell, J.~B.}, \au{Colella, P.} \& \au{Glaz, H.~M.}} \yr{1989}  \at{A
+  second-order projection method for the incompressible navier-stokes
+  equations}.  \jt{Journal of Computational Physics}  \bvol{85}~(2),
+  \pg{257--283}.
+
+\bibitem[Bremond \& Villermaux(2006)]{bremond2006atomization}
+{\sc \au{Bremond, N.} \& \au{Villermaux, E.}} \yr{2006}  \at{Atomization by jet
+  impact}.  \jt{Journal of Fluid Mechanics}  \bvol{549},  \pg{273--306}.
+
+\bibitem[Bush \& Hasha(2004)]{bush2004collision}
+{\sc \au{Bush, J. W.~M.} \& \au{Hasha, A.~E.}} \yr{2004}  \at{On the collision
+  of laminar jets: fluid chains and fishbones}.  \jt{Journal of fluid
+  mechanics}  \bvol{511},  \pg{285--310}.
+
+\bibitem[Chen {\em et~al.\/}(2013)Chen, Ma, Yang \& Popinet]{chen2013high}
+{\sc \au{Chen, X.}, \au{Ma, D.}, \au{Yang, V.} \& \au{Popinet, S.}} \yr{2013}
+  \at{High-fidelity simulations of impinging jet atomization}.  \jt{Atomization
+  and Sprays}  \bvol{23}~(12).
+
+\bibitem[Choo \& Kang(2001)]{choo2001parametric}
+{\sc \au{Choo, Y.~J.} \& \au{Kang, B.~S.}} \yr{2001}  \at{Parametric study on
   impinging-jet liquid sheet thickness distribution using an interferometric
-  method},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Experiments in fluids}\ }\textbf {\bibinfo {volume} {31}},\ \bibinfo {pages}
-  {56--62} (\bibinfo {year} {2001})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Choo}\ and\ \citenamefont
-  {Kang}(2007)}]{choo2007effect}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Choo}, \bibfnamefont
-  {Y.}}\ and\ \bibinfo {author} {\bibnamefont {Kang}, \bibfnamefont {B.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {The effect of jet velocity
-  profile on the characteristics of thickness and velocity of the liquid sheet
-  formed by two impinging jets},}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Physics of Fluids}\ }\textbf {\bibinfo {volume} {19}},\
-  \bibinfo {pages} {112101} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Choo}\ and\ \citenamefont
-  {Kang}(2002)}]{choo2002velocity}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Choo}, \bibfnamefont
-  {Y.-J.}}\ and\ \bibinfo {author} {\bibnamefont {Kang}, \bibfnamefont
-  {B.-S.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The velocity
-  distribution of the liquid sheet formed by two low-speed impinging jets},}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physics of
-  fluids}\ }\textbf {\bibinfo {volume} {14}},\ \bibinfo {pages} {622--627}
-  (\bibinfo {year} {2002})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Chorin}(1968)}]{Chorin1968}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Chorin}, \bibfnamefont
-  {A.~J.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Numerical
-  solution of the navier-stokes equations},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Mathematics of computation}\ }\textbf
-  {\bibinfo {volume} {22}},\ \bibinfo {pages} {745--762} (\bibinfo {year}
-  {1968})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Da}\ \emph {et~al.}(2016)\citenamefont {Da},
-  \citenamefont {Hahn}, \citenamefont {Batty}, \citenamefont {Wojtan},\ and\
-  \citenamefont {Grinspun}}]{da2016surface}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Da}, \bibfnamefont
-  {F.}}, \bibinfo {author} {\bibnamefont {Hahn}, \bibfnamefont {D.}}, \bibinfo
-  {author} {\bibnamefont {Batty}, \bibfnamefont {C.}}, \bibinfo {author}
-  {\bibnamefont {Wojtan}, \bibfnamefont {C.}}, \ and\ \bibinfo {author}
-  {\bibnamefont {Grinspun}, \bibfnamefont {E.}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Surface-only liquids},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {ACM Transactions on Graphics (TOG)}\ }\textbf
-  {\bibinfo {volume} {35}},\ \bibinfo {pages} {78} (\bibinfo {year}
-  {2016})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Da~Vinci}, \citenamefont {Schneider},\ and\
-  \citenamefont {Gingerich}(1999)}]{da1999codex}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Da~Vinci},
-  \bibfnamefont {L.}}, \bibinfo {author} {\bibnamefont {Schneider},
-  \bibfnamefont {M.}}, \ and\ \bibinfo {author} {\bibnamefont {Gingerich},
-  \bibfnamefont {O.}},\ }\href@noop {} {\emph {\bibinfo {title} {Der Codex
-  Leicester}}}\ (\bibinfo  {publisher} {Richter},\ \bibinfo {year}
-  {1999})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Dombrowski}\ and\ \citenamefont
-  {Fraser}(1954)}]{dombrowski1954photographic}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Dombrowski},
-  \bibfnamefont {N.}}\ and\ \bibinfo {author} {\bibnamefont {Fraser},
-  \bibfnamefont {R.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {A
-  photographic investigation into the disintegration of liquid sheets},}\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Philosophical
+  method}.  \jt{Experiments in fluids}  \bvol{31}~(1),  \pg{56--62}.
+
+\bibitem[Choo \& Kang(2002)]{choo2002velocity}
+{\sc \au{Choo, Y.~J.} \& \au{Kang, B.~S.}} \yr{2002}  \at{The velocity
+  distribution of the liquid sheet formed by two low-speed impinging jets}.
+  \jt{Physics of fluids}  \bvol{14}~(2),  \pg{622--627}.
+
+\bibitem[Chorin(1968)]{Chorin1968}
+{\sc \au{Chorin, A.~J.}} \yr{1968}  \at{Numerical solution of the navier-stokes
+  equations}.  \jt{Mathematics of computation}  \bvol{22}~(104),
+  \pg{745--762}.
+
+\bibitem[Da {\em et~al.\/}(2016)Da, Hahn, Batty, Wojtan \&
+  Grinspun]{da2016surface}
+{\sc \au{Da, F.}, \au{Hahn, D.}, \au{Batty, C.}, \au{Wojtan, C.} \&
+  \au{Grinspun, E.}} \yr{2016}  \at{Surface-only liquids}.  \jt{ACM
+  Transactions on Graphics (TOG)}  \bvol{35}~(4),  \pg{78}.
+
+\bibitem[Dombrowski \& Fraser(1954)]{dombrowski1954photographic}
+{\sc \au{Dombrowski, N.} \& \au{Fraser, R.~P.}} \yr{1954}  \at{A photographic
+  investigation into the disintegration of liquid sheets}.  \jt{Philosophical
   Transactions of the Royal Society of London. Series A, Mathematical and
-  Physical Sciences}\ ,\ \bibinfo {pages} {101--130}} (\bibinfo {year}
-  {1954})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Eggers}\ and\ \citenamefont
-  {Villermaux}(2008)}]{eggers2008physics}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Eggers}, \bibfnamefont
-  {J.}}\ and\ \bibinfo {author} {\bibnamefont {Villermaux}, \bibfnamefont
-  {E.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Physics of liquid
-  jets},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Reports
-  on progress in physics}\ }\textbf {\bibinfo {volume} {71}},\ \bibinfo {pages}
-  {036601} (\bibinfo {year} {2008})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ekimova}\ \emph {et~al.}(2015)\citenamefont
-  {Ekimova}, \citenamefont {Quevedo}, \citenamefont {Faubel}, \citenamefont
-  {Wernet},\ and\ \citenamefont {Nibbering}}]{ekimova2015liquid}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Ekimova}, \bibfnamefont
-  {M.}}, \bibinfo {author} {\bibnamefont {Quevedo}, \bibfnamefont {W.}},
-  \bibinfo {author} {\bibnamefont {Faubel}, \bibfnamefont {M.}}, \bibinfo
-  {author} {\bibnamefont {Wernet}, \bibfnamefont {P.}}, \ and\ \bibinfo
-  {author} {\bibnamefont {Nibbering}, \bibfnamefont {E.~T.}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {A liquid flatjet system for solution
-  phase soft-x-ray spectroscopy},}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {Structural Dynamics}\ }\textbf {\bibinfo {volume}
-  {2}},\ \bibinfo {pages} {054301} (\bibinfo {year} {2015})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Erni}\ and\ \citenamefont
-  {Elabbadi}(2013)}]{erni2013free}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Erni}, \bibfnamefont
-  {P.}}\ and\ \bibinfo {author} {\bibnamefont {Elabbadi}, \bibfnamefont {A.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Free impinging jet
+  Physical Sciences}  \pg{pp. 101--130}.
+
+\bibitem[Eggers \& Villermaux(2008)]{eggers2008physics}
+{\sc \au{Eggers, J.} \& \au{Villermaux, E.}} \yr{2008}  \at{Physics of liquid
+  jets}.  \jt{Reports on progress in physics}  \bvol{71}~(3),  \pg{036601}.
+
+\bibitem[Erni \& Elabbadi(2013)]{erni2013free}
+{\sc \au{Erni, P.} \& \au{Elabbadi, A.}} \yr{2013}  \at{Free impinging jet
   microreactors: controlling reactive flows via surface tension and fluid
-  viscoelasticity},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Langmuir}\ }\textbf {\bibinfo {volume} {29}},\ \bibinfo {pages} {7812--7824}
-  (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hasson}\ and\ \citenamefont
-  {Peck}(1964)}]{hasson1964thickness}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Hasson}, \bibfnamefont
-  {D.}}\ and\ \bibinfo {author} {\bibnamefont {Peck}, \bibfnamefont {R.~E.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Thickness distribution in a
-  sheet formed by impinging jets},}\ }\href@noop {} {\bibfield  {journal}
-  {\bibinfo  {journal} {AIChE Journal}\ }\textbf {\bibinfo {volume} {10}},\
-  \bibinfo {pages} {752--754} (\bibinfo {year} {1964})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Hureau}\ and\ \citenamefont
-  {Weber}(1998)}]{hureau1998impinging}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Hureau}, \bibfnamefont
-  {J.}}\ and\ \bibinfo {author} {\bibnamefont {Weber}, \bibfnamefont {R.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Impinging free jets of ideal
-  fluid},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
-  of Fluid Mechanics}\ }\textbf {\bibinfo {volume} {372}},\ \bibinfo {pages}
-  {357--374} (\bibinfo {year} {1998})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ibrahim}\ and\ \citenamefont
-  {Przekwas}(1991)}]{ibrahim1991impinging}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Ibrahim}, \bibfnamefont
-  {E.}}\ and\ \bibinfo {author} {\bibnamefont {Przekwas}, \bibfnamefont {A.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Impinging jets
-  atomization},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Physics of Fluids A: Fluid Dynamics}\ }\textbf {\bibinfo {volume} {3}},\
-  \bibinfo {pages} {2981--2987} (\bibinfo {year} {1991})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Inamura}\ and\ \citenamefont
-  {Shirota}(2014)}]{inamura2014effect}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Inamura}, \bibfnamefont
-  {T.}}\ and\ \bibinfo {author} {\bibnamefont {Shirota}, \bibfnamefont {M.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Effect of velocity profile
-  of impinging jets on sheet characteristics formed by impingement of two round
-  liquid jets},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {International Journal of Multiphase Flow}\ }\textbf {\bibinfo {volume}
-  {60}},\ \bibinfo {pages} {149--160} (\bibinfo {year} {2014})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Inoue}, \citenamefont {Watanabe},\ and\ \citenamefont
-  {Himeno}(2008)}]{inoue2008study}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Inoue}, \bibfnamefont
-  {C.}}, \bibinfo {author} {\bibnamefont {Watanabe}, \bibfnamefont {T.}}, \
-  and\ \bibinfo {author} {\bibnamefont {Himeno}, \bibfnamefont {T.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Study on atomization process
-  of liquid sheet formed by impinging jets},}\ }in\ \href@noop {} {\emph
-  {\bibinfo {booktitle} {44th AIAA/ASME/SAE/ASEE Joint Propulsion Conference \&
-  Exhibit}}}\ (\bibinfo {year} {2008})\ p.\ \bibinfo {pages} {4847}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Inoue}, \citenamefont {Watanabe},\ and\ \citenamefont
-  {Himeno}(2009)}]{inoue2009liquid}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Inoue}, \bibfnamefont
-  {C.}}, \bibinfo {author} {\bibnamefont {Watanabe}, \bibfnamefont {T.}}, \
-  and\ \bibinfo {author} {\bibnamefont {Himeno}, \bibfnamefont {T.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Liquid sheet dynamics and
-  primary breakup characteristics at impingement type injector},}\ }in\
-  \href@noop {} {\emph {\bibinfo {booktitle} {45th AIAA/ASME/SAE/ASEE Joint
-  Propulsion Conference \& Exhibit}}}\ (\bibinfo {year} {2009})\ p.\ \bibinfo
-  {pages} {5041}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Irodov}(1980)}]{irodov1980fundamental}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Irodov}, \bibfnamefont
-  {I.~E.}},\ }\href@noop {} {\emph {\bibinfo {title} {Fundamental laws of
-  mechanics}}}\ (\bibinfo  {publisher} {Mir},\ \bibinfo {year}
-  {1980})\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Kumar}, \citenamefont {Das},\ and\ \citenamefont
-  {Mitra}(2016)}]{kumar2016physical}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Kumar}, \bibfnamefont
-  {P.}}, \bibinfo {author} {\bibnamefont {Das}, \bibfnamefont {A.~K.}}, \ and\
-  \bibinfo {author} {\bibnamefont {Mitra}, \bibfnamefont {S.~K.}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {Physical understanding of gas-liquid
-  annular flow and its transition to dispersed droplets},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physics of Fluids}\ }\textbf
-  {\bibinfo {volume} {28}},\ \bibinfo {pages} {072101} (\bibinfo {year}
-  {2016})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Kumar}, \citenamefont {Das},\ and\ \citenamefont
-  {Mitra}(2017)}]{kumar2017bending}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Kumar}, \bibfnamefont
-  {P.}}, \bibinfo {author} {\bibnamefont {Das}, \bibfnamefont {A.~K.}}, \ and\
-  \bibinfo {author} {\bibnamefont {Mitra}, \bibfnamefont {S.~K.}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {Bending and growth of entrained air
-  filament under converging and asymmetric rotational fields},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physics of Fluids}\ }\textbf
-  {\bibinfo {volume} {29}},\ \bibinfo {pages} {022101} (\bibinfo {year}
-  {2017})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Lhuissier}\ and\ \citenamefont
-  {Villermaux}(2011)}]{lhuissier2011destabilization}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Lhuissier},
-  \bibfnamefont {H.}}\ and\ \bibinfo {author} {\bibnamefont {Villermaux},
-  \bibfnamefont {E.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {The
-  destabilization of an initially thick liquid sheet edge},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Physics of Fluids}\ }\textbf
-  {\bibinfo {volume} {23}},\ \bibinfo {pages} {091705} (\bibinfo {year}
-  {2011})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Ling}, \citenamefont {Zaleski},\ and\ \citenamefont
-  {Scardovelli}(2015)}]{ling2015multiscale}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Ling}, \bibfnamefont
-  {Y.}}, \bibinfo {author} {\bibnamefont {Zaleski}, \bibfnamefont {S.}}, \ and\
-  \bibinfo {author} {\bibnamefont {Scardovelli}, \bibfnamefont {R.}},\
-  }\bibfield  {title} {\enquote {\bibinfo {title} {Multiscale simulation of
-  atomization with small droplets represented by a lagrangian point-particle
-  model},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {International Journal of Multiphase Flow}\ }\textbf {\bibinfo {volume}
-  {76}},\ \bibinfo {pages} {122--143} (\bibinfo {year} {2015})}\BibitemShut
-  {NoStop}%
-\bibitem [{\citenamefont {Ma}\ \emph {et~al.}(2011)\citenamefont {Ma},
-  \citenamefont {Chen}, \citenamefont {Khare},\ and\ \citenamefont
-  {Yang}}]{ma2011atomization}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Ma}, \bibfnamefont
-  {D.-J.}}, \bibinfo {author} {\bibnamefont {Chen}, \bibfnamefont {X.-D.}},
-  \bibinfo {author} {\bibnamefont {Khare}, \bibfnamefont {P.}}, \ and\ \bibinfo
-  {author} {\bibnamefont {Yang}, \bibfnamefont {V.}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Atomization patterns and breakup characteristics
-  of liquid sheets formed by two impinging jets},}\ }in\ \href@noop {} {\emph
-  {\bibinfo {booktitle} {49th AIAA Aerospace Sciences Meeting including the New
-  Horizons Forum and Aerospace Exposition}}}\ (\bibinfo {year} {2011})\
-  p.~\bibinfo {pages} {97}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Miller~Jr}(1960)}]{miller1960distribution}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Miller~Jr},
-  \bibfnamefont {K.~D.}},\ }\bibfield  {title} {\enquote {\bibinfo {title}
-  {Distribution of spray from impinging liquid jets},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Applied Physics}\
-  }\textbf {\bibinfo {volume} {31}},\ \bibinfo {pages} {1132--1133} (\bibinfo
-  {year} {1960})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Popinet}(2003)}]{Popinet2003}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Popinet}, \bibfnamefont
-  {S.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Gerris: a tree-based
-  adaptive solver for the incompressible euler equations in complex
-  geometries},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Journal of Computational Physics}\ }\textbf {\bibinfo {volume} {190}},\
-  \bibinfo {pages} {572--600} (\bibinfo {year} {2003})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Popinet}(2009)}]{popinet2009}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Popinet}, \bibfnamefont
-  {S.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {An accurate adaptive
-  solver for surface-tension-driven interfacial flows},}\ }\href@noop {}
-  {\bibfield  {journal} {\bibinfo  {journal} {Journal of Computational
-  Physics}\ }\textbf {\bibinfo {volume} {228}},\ \bibinfo {pages} {5838--5866}
-  (\bibinfo {year} {2009})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Rayleigh}(1879)}]{rayleigh1879capillary}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Rayleigh},
-  \bibfnamefont {L.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {On the
-  capillary phenomena of jets},}\ }in\ \href@noop {} {\emph {\bibinfo
-  {booktitle} {Proc. R. Soc. London}}},\ Vol.~\bibinfo {volume} {29}\ (\bibinfo
-  {year} {1879})\ pp.\ \bibinfo {pages} {71--97}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Shen}\ and\ \citenamefont
-  {Poulikakos}(1998)}]{poulikakos1998thickness}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Shen}, \bibfnamefont
-  {Y.~B.}}\ and\ \bibinfo {author} {\bibnamefont {Poulikakos}, \bibfnamefont
-  {D.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Thickness variation
-  of a liquid sheet formed by two impinging jets using holographic
-  interferometry},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {ASME Journal of Fluids Engineering}\ }\textbf {\bibinfo {volume} {120}},\
-  \bibinfo {pages} {482--487} (\bibinfo {year} {1998})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Sussman}\ \emph {et~al.}(2007)\citenamefont
-  {Sussman}, \citenamefont {Smith}, \citenamefont {Hussaini}, \citenamefont
-  {Ohta},\ and\ \citenamefont {Zhi-Wei}}]{sussman2007sharp}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Sussman}, \bibfnamefont
-  {M.}}, \bibinfo {author} {\bibnamefont {Smith}, \bibfnamefont {K.~M.}},
-  \bibinfo {author} {\bibnamefont {Hussaini}, \bibfnamefont {M.~Y.}}, \bibinfo
-  {author} {\bibnamefont {Ohta}, \bibfnamefont {M.}}, \ and\ \bibinfo {author}
-  {\bibnamefont {Zhi-Wei}, \bibfnamefont {R.}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {A sharp interface method for incompressible two-phase
-  flows},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Journal
-  of computational physics}\ }\textbf {\bibinfo {volume} {221}},\ \bibinfo
-  {pages} {469--505} (\bibinfo {year} {2007})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Taylor}(1960)}]{taylor1960formation}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Taylor}, \bibfnamefont
-  {G.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Formation of thin
-  flat sheets of water},}\ }in\ \href@noop {} {\emph {\bibinfo {booktitle}
-  {Proceedings of the Royal Society of London A: Mathematical, Physical and
-  Engineering Sciences}}},\ Vol.\ \bibinfo {volume} {259}\ (\bibinfo
-  {organization} {The Royal Society},\ \bibinfo {year} {1960})\ pp.\ \bibinfo
-  {pages} {1--17}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Villermaux}\ and\ \citenamefont
-  {Clanet}(2002)}]{villermaux2002life}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Villermaux},
-  \bibfnamefont {E.}}\ and\ \bibinfo {author} {\bibnamefont {Clanet},
-  \bibfnamefont {C.}},\ }\bibfield  {title} {\enquote {\bibinfo {title} {Life
-  of a flapping liquid sheet},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo
-   {journal} {Journal of fluid mechanics}\ }\textbf {\bibinfo {volume} {462}},\
-  \bibinfo {pages} {341--363} (\bibinfo {year} {2002})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Wadhwa}, \citenamefont {Vlachos},\ and\ \citenamefont
-  {Jung}(2013)}]{wadhwa2013noncoalescence}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Wadhwa}, \bibfnamefont
-  {N.}}, \bibinfo {author} {\bibnamefont {Vlachos}, \bibfnamefont {P.}}, \ and\
-  \bibinfo {author} {\bibnamefont {Jung}, \bibfnamefont {S.}},\ }\bibfield
-  {title} {\enquote {\bibinfo {title} {Noncoalescence in the oblique collision
-  of fluid jets},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Physical review letters}\ }\textbf {\bibinfo {volume} {110}},\ \bibinfo
-  {pages} {124502} (\bibinfo {year} {2013})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Yang}\ \emph {et~al.}(2014)\citenamefont {Yang},
-  \citenamefont {Zhao}, \citenamefont {Fu},\ and\ \citenamefont
-  {Cui}}]{yang2014liquid}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Yang}, \bibfnamefont
-  {L.-j.}}, \bibinfo {author} {\bibnamefont {Zhao}, \bibfnamefont {F.}},
-  \bibinfo {author} {\bibnamefont {Fu}, \bibfnamefont {Q.-f.}}, \ and\ \bibinfo
-  {author} {\bibnamefont {Cui}, \bibfnamefont {K.-d.}},\ }\bibfield  {title}
-  {\enquote {\bibinfo {title} {Liquid sheet formed by impingement of two
-  viscous jets},}\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
-  {Journal of Propulsion and Power}\ }\textbf {\bibinfo {volume} {30}},\
-  \bibinfo {pages} {1016--1026} (\bibinfo {year} {2014})}\BibitemShut {NoStop}%
-\bibitem [{\citenamefont {Zheng}\ \emph {et~al.}(2015)\citenamefont {Zheng},
-  \citenamefont {Nie}, \citenamefont {Feng},\ and\ \citenamefont
-  {Wu}}]{zheng2015numerical}%
-  \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibnamefont {Zheng}, \bibfnamefont
-  {G.}}, \bibinfo {author} {\bibnamefont {Nie}, \bibfnamefont {W.}}, \bibinfo
-  {author} {\bibnamefont {Feng}, \bibfnamefont {S.}}, \ and\ \bibinfo {author}
-  {\bibnamefont {Wu}, \bibfnamefont {G.}},\ }\bibfield  {title} {\enquote
-  {\bibinfo {title} {Numerical simulation of the atomization process of a
-  like-doublet impinging rocket injector},}\ }\href@noop {} {\bibfield
-  {journal} {\bibinfo  {journal} {Procedia Engineering}\ }\textbf {\bibinfo
-  {volume} {99}},\ \bibinfo {pages} {930--938} (\bibinfo {year}
-  {2015})}\BibitemShut {NoStop}%
-\end{thebibliography}%
+  viscoelasticity}.  \jt{Langmuir}  \bvol{29}~(25),  \pg{7812--7824}.
+
+\bibitem[Hasson \& Peck(1964)]{hasson1964thickness}
+{\sc \au{Hasson, D.} \& \au{Peck, R.~E.}} \yr{1964}  \at{Thickness distribution
+  in a sheet formed by impinging jets}.  \jt{AIChE Journal}  \bvol{10}~(5),
+  \pg{752--754}.
+
+\bibitem[Ibrahim \& Przekwas(1991)]{ibrahim1991impinging}
+{\sc \au{Ibrahim, E.~A.} \& \au{Przekwas, A.~J.}} \yr{1991}  \at{Impinging jets
+  atomization}.  \jt{Physics of Fluids A: Fluid Dynamics}  \bvol{3}~(12),
+  \pg{2981--2987}.
+
+\bibitem[Inamura \& Shirota(2014)]{inamura2014effect}
+{\sc \au{Inamura, T.} \& \au{Shirota, M.}} \yr{2014}  \at{Effect of velocity
+  profile of impinging jets on sheet characteristics formed by impingement of
+  two round liquid jets}.  \jt{International Journal of Multiphase Flow}
+  \bvol{60},  \pg{149--160}.
+
+\bibitem[Ling {\em et~al.\/}(2015)Ling, Zaleski \&
+  Scardovelli]{ling2015multiscale}
+{\sc \au{Ling, Y.}, \au{Zaleski, S.} \& \au{Scardovelli, R.}} \yr{2015}
+  \at{Multiscale simulation of atomization with small droplets represented by a
+  lagrangian point-particle model}.  \jt{International Journal of Multiphase
+  Flow}  \bvol{76},  \pg{122--143}.
+
+\bibitem[Ma {\em et~al.\/}(2011)Ma, Chen, Khare \& Yang]{ma2011atomization}
+{\sc \au{Ma, D.-J.}, \au{Chen, X.-D.}, \au{Khare, P.} \& \au{Yang, V.}}
+  \yr{2011} Atomization patterns and breakup characteristics of liquid sheets
+  formed by two impinging jets.  \bt{In {\em 49th AIAA Aerospace Sciences
+  Meeting including the New Horizons Forum and Aerospace Exposition\/}},
+  \pg{p.~97}.
+
+\bibitem[Popinet(2003)]{Popinet2003}
+{\sc \au{Popinet, S.}} \yr{2003}  \at{Gerris: a tree-based adaptive solver for
+  the incompressible euler equations in complex geometries}.  \jt{Journal of
+  Computational Physics}  \bvol{190}~(2),  \pg{572--600}.
+
+\bibitem[Popinet(2009)]{popinet2009}
+{\sc \au{Popinet, S.}} \yr{2009}  \at{An accurate adaptive solver for
+  surface-tension-driven interfacial flows}.  \jt{Journal of Computational
+  Physics}  \bvol{228}~(16),  \pg{5838--5866}.
+
+\bibitem[Rayleigh(1879)]{rayleigh1879capillary}
+{\sc \au{Rayleigh, Lord}} \yr{1879} On the capillary phenomena of jets.  \bt{In
+  {\em Proc. R. Soc. London\/}}, ,  \vol{vol.~29},  \pg{pp. 71--97}.
+
+\bibitem[Shen \& Poulikakos(1998)]{poulikakos1998thickness}
+{\sc \au{Shen, Y.~B.} \& \au{Poulikakos, D.}} \yr{1998}  \at{Thickness
+  variation of a liquid sheet formed by two impinging jets using holographic
+  interferometry}.  \jt{ASME Journal of Fluids Engineering}  \bvol{120}~(3),
+  \pg{482--487}.
+
+\bibitem[Taylor(1960)]{taylor1960formation}
+{\sc \au{Taylor, G.}} \yr{1960} Formation of thin flat sheets of water.  \bt{In
+  {\em Proceedings of the Royal Society of London A: Mathematical, Physical and
+  Engineering Sciences\/}}, ,  \vol{vol. 259},  \pg{pp. 1--17}. The Royal
+  Society.
+
+\bibitem[Villermaux \& Clanet(2002)]{villermaux2002life}
+{\sc \au{Villermaux, E.} \& \au{Clanet, C.}} \yr{2002}  \at{Life of a flapping
+  liquid sheet}.  \jt{Journal of fluid mechanics}  \bvol{462},  \pg{341--363}.
+
+\bibitem[Wadhwa {\em et~al.\/}(2013)Wadhwa, Vlachos \&
+  Jung]{wadhwa2013noncoalescence}
+{\sc \au{Wadhwa, N.}, \au{Vlachos, P.} \& \au{Jung, S.}} \yr{2013}
+  \at{Noncoalescence in the oblique collision of fluid jets}.  \jt{Physical
+  review letters}  \bvol{110}~(12),  \pg{124502}.
+
+\bibitem[Yang {\em et~al.\/}(2014)Yang, Zhao, Fu \& K.-D.Cui]{yang2014liquid}
+{\sc \au{Yang, L.-J.}, \au{Zhao, F.}, \au{Fu, Q.-F.} \& \au{K.-D.Cui}}
+  \yr{2014}  \at{Liquid sheet formed by impingement of two viscous jets}.
+  \jt{Journal of Propulsion and Power}  \bvol{30}~(4),  \pg{1016--1026}.
+
+\end{thebibliography}
