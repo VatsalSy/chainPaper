@@ -4,44 +4,44 @@ The top-level auxiliary file: chains.aux
 The style file: jfm.bst
 Database file #1: chains.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 24 entries,
+You've used 20 entries,
             3068 wiz_defined-function locations,
-            853 strings with 9018 characters,
-and the built_in function-call counts, 12945 in all, are:
-= -- 1216
-> -- 488
-< -- 23
-+ -- 197
-- -- 165
-* -- 1347
-:= -- 2106
-add.period$ -- 49
-call.type$ -- 24
-change.case$ -- 181
-chr.to.int$ -- 24
-cite$ -- 24
-duplicate$ -- 695
-empty$ -- 1080
-format.name$ -- 213
-if$ -- 2590
+            827 strings with 8244 characters,
+and the built_in function-call counts, 10774 in all, are:
+= -- 1014
+> -- 400
+< -- 19
++ -- 163
+- -- 135
+* -- 1121
+:= -- 1754
+add.period$ -- 41
+call.type$ -- 20
+change.case$ -- 149
+chr.to.int$ -- 20
+cite$ -- 20
+duplicate$ -- 578
+empty$ -- 900
+format.name$ -- 173
+if$ -- 2153
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 24
-newline$ -- 77
-num.names$ -- 96
-pop$ -- 164
+missing$ -- 20
+newline$ -- 65
+num.names$ -- 80
+pop$ -- 133
 preamble$ -- 1
-purify$ -- 151
+purify$ -- 125
 quote$ -- 0
-skip$ -- 328
+skip$ -- 274
 stack$ -- 0
-substring$ -- 811
-swap$ -- 257
-text.length$ -- 6
+substring$ -- 688
+swap$ -- 214
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 216
+type$ -- 180
 warning$ -- 0
-while$ -- 117
+while$ -- 98
 width$ -- 0
-write$ -- 273
+write$ -- 229

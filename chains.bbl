@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{20}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
   \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
@@ -60,21 +60,10 @@
   microreactors: controlling reactive flows via surface tension and fluid
   viscoelasticity}.  \jt{Langmuir}  \bvol{29}~(25),  \pg{7812--7824}.
 
-\bibitem[Hasson \& Peck(1964)]{hasson1964thickness}
-{\sc \au{Hasson, D.} \& \au{Peck, R.~E.}} \yr{1964}  \at{Thickness distribution
-  in a sheet formed by impinging jets}.  \jt{AIChE Journal}  \bvol{10}~(5),
-  \pg{752--754}.
-
 \bibitem[Ibrahim \& Przekwas(1991)]{ibrahim1991impinging}
 {\sc \au{Ibrahim, E.~A.} \& \au{Przekwas, A.~J.}} \yr{1991}  \at{Impinging jets
   atomization}.  \jt{Physics of Fluids A: Fluid Dynamics}  \bvol{3}~(12),
   \pg{2981--2987}.
-
-\bibitem[Inamura \& Shirota(2014)]{inamura2014effect}
-{\sc \au{Inamura, T.} \& \au{Shirota, M.}} \yr{2014}  \at{Effect of velocity
-  profile of impinging jets on sheet characteristics formed by impingement of
-  two round liquid jets}.  \jt{International Journal of Multiphase Flow}
-  \bvol{60},  \pg{149--160}.
 
 \bibitem[Ling {\em et~al.\/}(2015)Ling, Zaleski \&
   Scardovelli]{ling2015multiscale}
@@ -82,13 +71,6 @@
   \at{Multiscale simulation of atomization with small droplets represented by a
   lagrangian point-particle model}.  \jt{International Journal of Multiphase
   Flow}  \bvol{76},  \pg{122--143}.
-
-\bibitem[Ma {\em et~al.\/}(2011)Ma, Chen, Khare \& Yang]{ma2011atomization}
-{\sc \au{Ma, D.-J.}, \au{Chen, X.-D.}, \au{Khare, P.} \& \au{Yang, V.}}
-  \yr{2011} Atomization patterns and breakup characteristics of liquid sheets
-  formed by two impinging jets.  \bt{In {\em 49th AIAA Aerospace Sciences
-  Meeting including the New Horizons Forum and Aerospace Exposition\/}},
-  \pg{p.~97}.
 
 \bibitem[Popinet(2003)]{Popinet2003}
 {\sc \au{Popinet, S.}} \yr{2003}  \at{Gerris: a tree-based adaptive solver for
@@ -103,12 +85,6 @@
 \bibitem[Rayleigh(1879)]{rayleigh1879capillary}
 {\sc \au{Rayleigh, Lord}} \yr{1879} On the capillary phenomena of jets.  \bt{In
   {\em Proc. R. Soc. London\/}}, ,  \vol{vol.~29},  \pg{pp. 71--97}.
-
-\bibitem[Shen \& Poulikakos(1998)]{poulikakos1998thickness}
-{\sc \au{Shen, Y.~B.} \& \au{Poulikakos, D.}} \yr{1998}  \at{Thickness
-  variation of a liquid sheet formed by two impinging jets using holographic
-  interferometry}.  \jt{ASME Journal of Fluids Engineering}  \bvol{120}~(3),
-  \pg{482--487}.
 
 \bibitem[Taylor(1960)]{taylor1960formation}
 {\sc \au{Taylor, G.}} \yr{1960} Formation of thin flat sheets of water.  \bt{In
