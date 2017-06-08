@@ -1,4 +1,4 @@
-\begin{thebibliography}{20}
+\begin{thebibliography}{22}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
   \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
@@ -65,12 +65,25 @@
   atomization}.  \jt{Physics of Fluids A: Fluid Dynamics}  \bvol{3}~(12),
   \pg{2981--2987}.
 
+\bibitem[Inamura \& Shirota(2014)]{inamura2014effect}
+{\sc \au{Inamura, T.} \& \au{Shirota, M.}} \yr{2014}  \at{Effect of velocity
+  profile of impinging jets on sheet characteristics formed by impingement of
+  two round liquid jets}.  \jt{International Journal of Multiphase Flow}
+  \bvol{60},  \pg{149--160}.
+
 \bibitem[Ling {\em et~al.\/}(2015)Ling, Zaleski \&
   Scardovelli]{ling2015multiscale}
 {\sc \au{Ling, Y.}, \au{Zaleski, S.} \& \au{Scardovelli, R.}} \yr{2015}
   \at{Multiscale simulation of atomization with small droplets represented by a
   lagrangian point-particle model}.  \jt{International Journal of Multiphase
   Flow}  \bvol{76},  \pg{122--143}.
+
+\bibitem[Ma {\em et~al.\/}(2011)Ma, Chen, Khare \& Yang]{ma2011atomization}
+{\sc \au{Ma, D.-J.}, \au{Chen, X.-D.}, \au{Khare, P.} \& \au{Yang, V.}}
+  \yr{2011} Atomization patterns and breakup characteristics of liquid sheets
+  formed by two impinging jets.  \bt{In {\em 49th AIAA Aerospace Sciences
+  Meeting including the New Horizons Forum and Aerospace Exposition\/}},
+  \pg{p.~97}.
 
 \bibitem[Popinet(2003)]{Popinet2003}
 {\sc \au{Popinet, S.}} \yr{2003}  \at{Gerris: a tree-based adaptive solver for
