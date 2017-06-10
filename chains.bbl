@@ -1,14 +1,8 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{14}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
   \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
   \def\publ#1{#1}\def\arxiv#1{#1}\def\org#1{#1}\def\st#1{\textit{#1}}
-
-\bibitem[Bell {\em et~al.\/}(1989)Bell, Colella \& Glaz]{bell1989second}
-{\sc \au{Bell, J.~B.}, \au{Colella, P.} \& \au{Glaz, H.~M.}} \yr{1989}  \at{A
-  second-order projection method for the incompressible navier-stokes
-  equations}.  \jt{Journal of Computational Physics}  \bvol{85}~(2),
-  \pg{257--283}.
 
 \bibitem[Bremond \& Villermaux(2006)]{bremond2006atomization}
 {\sc \au{Bremond, N.} \& \au{Villermaux, E.}} \yr{2006}  \at{Atomization by jet
@@ -34,11 +28,6 @@
   distribution of the liquid sheet formed by two low-speed impinging jets}.
   \jt{Physics of Fluids}  \bvol{14}~(2),  \pg{622--627}.
 
-\bibitem[Chorin(1968)]{Chorin1968}
-{\sc \au{Chorin, A.~J.}} \yr{1968}  \at{Numerical solution of the navier-stokes
-  equations}.  \jt{Mathematics of Computation}  \bvol{22}~(104),
-  \pg{745--762}.
-
 \bibitem[Da {\em et~al.\/}(2016)Da, Hahn, Batty, Wojtan \&
   Grinspun]{da2016surface}
 {\sc \au{Da, F.}, \au{Hahn, D.}, \au{Batty, C.}, \au{Wojtan, C.} \&
@@ -47,7 +36,7 @@
 
 \bibitem[Eggers \& Villermaux(2008)]{eggers2008physics}
 {\sc \au{Eggers, J.} \& \au{Villermaux, E.}} \yr{2008}  \at{Physics of liquid
-  jets}.  \jt{Reports on progress in physics}  \bvol{71}~(3),  \pg{036601}.
+  jets}.  \jt{Reports on Progress in Physics}  \bvol{71}~(3),  \pg{036601}.
 
 \bibitem[Erni \& Elabbadi(2013)]{erni2013free}
 {\sc \au{Erni, P.} \& \au{Elabbadi, A.}} \yr{2013}  \at{Free impinging jet
@@ -67,35 +56,19 @@
   lagrangian point-particle model}.  \jt{International Journal of Multiphase
   Flow}  \bvol{76},  \pg{122--143}.
 
-\bibitem[Popinet(2003)]{Popinet2003}
-{\sc \au{Popinet, S.}} \yr{2003}  \at{Gerris: a tree-based adaptive solver for
-  the incompressible euler equations in complex geometries}.  \jt{Journal of
-  Computational Physics}  \bvol{190}~(2),  \pg{572--600}.
-
 \bibitem[Popinet(2009)]{popinet2009}
 {\sc \au{Popinet, S.}} \yr{2009}  \at{An accurate adaptive solver for
   surface-tension-driven interfacial flows}.  \jt{Journal of Computational
   Physics}  \bvol{228}~(16),  \pg{5838--5866}.
 
-\bibitem[Rayleigh(1879)]{rayleigh1879capillary}
-{\sc \au{Rayleigh, Lord}} \yr{1879} On the capillary phenomena of jets.  \bt{In
-  {\em Proc. R. Soc. London\/}}, ,  \vol{vol.~29},  \pg{pp. 71--97}.
-
 \bibitem[Taylor(1960)]{taylor1960formation}
-{\sc \au{Taylor, G.}} \yr{1960} Formation of thin flat sheets of water.  \bt{In
-  {\em Proceedings of the Royal Society of London A: Mathematical, Physical and
-  Engineering Sciences\/}}, ,  \vol{vol. 259},  \pg{pp. 1--17}. The Royal
-  Society.
+{\sc \au{Taylor, G.}} \yr{1960}  \at{Formation of thin flat sheets of water}.
+  \jt{Proceedings of the Royal Society of London A: Mathematical, Physical and
+  Engineering Sciences}  \bvol{259}~(1296),  \pg{1--17}.
 
 \bibitem[Villermaux \& Clanet(2002)]{villermaux2002life}
 {\sc \au{Villermaux, E.} \& \au{Clanet, C.}} \yr{2002}  \at{Life of a flapping
   liquid sheet}.  \jt{Journal of Fluid Mechanics}  \bvol{462},  \pg{341--363}.
-
-\bibitem[Wadhwa {\em et~al.\/}(2013)Wadhwa, Vlachos \&
-  Jung]{wadhwa2013noncoalescence}
-{\sc \au{Wadhwa, N.}, \au{Vlachos, P.} \& \au{Jung, S.}} \yr{2013}
-  \at{Noncoalescence in the oblique collision of fluid jets}.  \jt{Physical
-  review letters}  \bvol{110}~(12),  \pg{124502}.
 
 \bibitem[Yang {\em et~al.\/}(2014)Yang, Zhao, Fu \& K.-D.Cui]{yang2014liquid}
 {\sc \au{Yang, L.-J.}, \au{Zhao, F.}, \au{Fu, Q.-F.} \& \au{K.-D.Cui}}
