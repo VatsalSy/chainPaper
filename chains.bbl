@@ -1,4 +1,4 @@
-\begin{thebibliography}{20}
+\begin{thebibliography}{19}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \def\au#1{#1} \def\ed#1{#1} \def\yr#1{#1}\def\at#1{#1}\def\jt#1{\textit{#1}}
   \def\bt#1{#1}\def\bvol#1{\textbf{#1}} \def\vol#1{#1} \def\pg#1{#1}
@@ -16,8 +16,8 @@
 
 \bibitem[Bush \& Hasha(2004)]{bush2004collision}
 {\sc \au{Bush, J. W.~M.} \& \au{Hasha, A.~E.}} \yr{2004}  \at{On the collision
-  of laminar jets: fluid chains and fishbones}.  \jt{Journal of fluid
-  mechanics}  \bvol{511},  \pg{285--310}.
+  of laminar jets: fluid chains and fishbones}.  \jt{Journal of Fluid
+  Mechanics}  \bvol{511},  \pg{285--310}.
 
 \bibitem[Chen {\em et~al.\/}(2013)Chen, Ma, Yang \& Popinet]{chen2013high}
 {\sc \au{Chen, X.}, \au{Ma, D.}, \au{Yang, V.} \& \au{Popinet, S.}} \yr{2013}
@@ -27,16 +27,16 @@
 \bibitem[Choo \& Kang(2001)]{choo2001parametric}
 {\sc \au{Choo, Y.~J.} \& \au{Kang, B.~S.}} \yr{2001}  \at{Parametric study on
   impinging-jet liquid sheet thickness distribution using an interferometric
-  method}.  \jt{Experiments in fluids}  \bvol{31}~(1),  \pg{56--62}.
+  method}.  \jt{Experiments in Fluids}  \bvol{31}~(1),  \pg{56--62}.
 
 \bibitem[Choo \& Kang(2002)]{choo2002velocity}
 {\sc \au{Choo, Y.~J.} \& \au{Kang, B.~S.}} \yr{2002}  \at{The velocity
   distribution of the liquid sheet formed by two low-speed impinging jets}.
-  \jt{Physics of fluids}  \bvol{14}~(2),  \pg{622--627}.
+  \jt{Physics of Fluids}  \bvol{14}~(2),  \pg{622--627}.
 
 \bibitem[Chorin(1968)]{Chorin1968}
 {\sc \au{Chorin, A.~J.}} \yr{1968}  \at{Numerical solution of the navier-stokes
-  equations}.  \jt{Mathematics of computation}  \bvol{22}~(104),
+  equations}.  \jt{Mathematics of Computation}  \bvol{22}~(104),
   \pg{745--762}.
 
 \bibitem[Da {\em et~al.\/}(2016)Da, Hahn, Batty, Wojtan \&
@@ -53,11 +53,6 @@
 {\sc \au{Erni, P.} \& \au{Elabbadi, A.}} \yr{2013}  \at{Free impinging jet
   microreactors: controlling reactive flows via surface tension and fluid
   viscoelasticity}.  \jt{Langmuir}  \bvol{29}~(25),  \pg{7812--7824}.
-
-\bibitem[Ibrahim \& Przekwas(1991)]{ibrahim1991impinging}
-{\sc \au{Ibrahim, E.~A.} \& \au{Przekwas, A.~J.}} \yr{1991}  \at{Impinging jets
-  atomization}.  \jt{Physics of Fluids A: Fluid Dynamics}  \bvol{3}~(12),
-  \pg{2981--2987}.
 
 \bibitem[Inamura \& Shirota(2014)]{inamura2014effect}
 {\sc \au{Inamura, T.} \& \au{Shirota, M.}} \yr{2014}  \at{Effect of velocity
@@ -94,7 +89,7 @@
 
 \bibitem[Villermaux \& Clanet(2002)]{villermaux2002life}
 {\sc \au{Villermaux, E.} \& \au{Clanet, C.}} \yr{2002}  \at{Life of a flapping
-  liquid sheet}.  \jt{Journal of fluid mechanics}  \bvol{462},  \pg{341--363}.
+  liquid sheet}.  \jt{Journal of Fluid Mechanics}  \bvol{462},  \pg{341--363}.
 
 \bibitem[Wadhwa {\em et~al.\/}(2013)Wadhwa, Vlachos \&
   Jung]{wadhwa2013noncoalescence}
