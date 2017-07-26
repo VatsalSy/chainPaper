@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.7)  10 JUN 2017 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.7)  27 JUL 2017 01:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -697,12 +697,15 @@ Package epstopdf Info: Source file: <Figure1.eps>
 (epstopdf)                    date: 2017-06-09 20:55:55
 (epstopdf)                    size: 513548 bytes
 (epstopdf)             Output file: <Figure1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-09 20:55:55
-(epstopdf)                    size: 233718 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figure1-eps-converted-to.p
 df Figure1.eps>
 (epstopdf)             \includegraphics on input line 37.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figure1-eps-converted-to.pdf Figure1.eps)...execu
+ted safely (allowed).
+
+Package epstopdf Info: Result file: <Figure1-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-27 01:01:44
+(epstopdf)                    size: 233718 bytes.
 
 <Figure1-eps-converted-to.pdf, id=4, 1142.2675pt x 719.68875pt>
 File: Figure1-eps-converted-to.pdf Graphic file (type pdf)
@@ -718,22 +721,25 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 Non-PDF special ignored!]
 Package epstopdf Info: Source file: <Figure2.eps>
-(epstopdf)                    date: 2017-06-10 10:03:29
-(epstopdf)                    size: 22238280 bytes
+(epstopdf)                    date: 2017-06-10 19:13:54
+(epstopdf)                    size: 345212 bytes
 (epstopdf)             Output file: <Figure2-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-06-10 10:03:42
-(epstopdf)                    size: 6368914 bytes
 (epstopdf)             Command: <repstopdf --outfile=Figure2-eps-converted-to.p
 df Figure2.eps>
 (epstopdf)             \includegraphics on input line 49.
-Package epstopdf Info: Output file is already uptodate.
+runsystem(repstopdf --outfile=Figure2-eps-converted-to.pdf Figure2.eps)...execu
+ted safely (allowed).
 
-<Figure2-eps-converted-to.pdf, id=19, 2128.95375pt x 722.7pt>
+Package epstopdf Info: Result file: <Figure2-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-07-27 01:01:44
+(epstopdf)                    size: 198163 bytes.
+
+<Figure2-eps-converted-to.pdf, id=19, 998.73125pt x 340.27126pt>
 File: Figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure2-eps-converted-to.pdf>
 Package pdftex.def Info: Figure2-eps-converted-to.pdf used on input line 49.
-(pdftex.def)             Requested size: 384.0pt x 130.34505pt.
+(pdftex.def)             Requested size: 384.0pt x 130.83089pt.
  [2 <./Figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Figure3.eps>
 (epstopdf)                    date: 2017-06-10 13:04:04
@@ -764,7 +770,7 @@ df Figure4.eps>
 (epstopdf)             \includegraphics on input line 83.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figure4-eps-converted-to.pdf, id=43, 1445.4pt x 722.7pt>
+<Figure4-eps-converted-to.pdf, id=41, 1445.4pt x 722.7pt>
 File: Figure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure4-eps-converted-to.pdf>
@@ -782,7 +788,7 @@ df Figure5.eps>
 (epstopdf)             \includegraphics on input line 91.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figure5-eps-converted-to.pdf, id=55, 2161.07375pt x 1412.27625pt>
+<Figure5-eps-converted-to.pdf, id=53, 2161.07375pt x 1412.27625pt>
 File: Figure5-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure5-eps-converted-to.pdf>
@@ -801,7 +807,7 @@ df Figure6.eps>
 (epstopdf)             \includegraphics on input line 124.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figure6-eps-converted-to.pdf, id=74, 1201.48875pt x 724.7075pt>
+<Figure6-eps-converted-to.pdf, id=72, 1201.48875pt x 724.7075pt>
 File: Figure6-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure6-eps-converted-to.pdf>
@@ -819,7 +825,7 @@ df Figure7.eps>
 (epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 
-<Figure7-eps-converted-to.pdf, id=80, 1445.4pt x 722.7pt>
+<Figure7-eps-converted-to.pdf, id=78, 1445.4pt x 722.7pt>
 File: Figure7-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Figure7-eps-converted-to.pdf>
@@ -830,7 +836,7 @@ Package pdftex.def Info: Figure7-eps-converted-to.pdf used on input line 152.
 Here is how much of TeX's memory you used:
  15637 strings out of 493085
  313681 string characters out of 6136918
- 489475 words of memory out of 5000000
+ 489474 words of memory out of 5000000
  18773 multiletter control sequences out of 15000+600000
  14689 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -857,9 +863,9 @@ amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pf
 b>
-Output written on chains.pdf (10 pages, 14461605 bytes).
+Output written on chains.pdf (10 pages, 8290853 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
+ 166 PDF objects out of 1000 (max. 8388607)
  111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
