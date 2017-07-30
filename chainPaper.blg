@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: chainPaper.aux
+The style file: aipauth4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: chainPaperNotes.bib
+Database file #2: chainPaper.bib
+control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{aip41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{0}, control.pages{1}, control.year{N/A}, control.eprint{N/A}, 
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs aipauth4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (9) reversed initials
+Control: editor formatted (0) differently from author
+Control: production of article title (0) allowed
+Control: page (1) range
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+You've used 25 entries,
+            5936 wiz_defined-function locations,
+            1770 strings with 18140 characters,
+and the built_in function-call counts, 25881 in all, are:
+= -- 1883
+> -- 746
+< -- 95
++ -- 228
+- -- 209
+* -- 3970
+:= -- 2804
+add.period$ -- 46
+call.type$ -- 25
+change.case$ -- 165
+chr.to.int$ -- 27
+cite$ -- 25
+duplicate$ -- 2157
+empty$ -- 1758
+format.name$ -- 294
+if$ -- 5030
+int.to.chr$ -- 1
+int.to.str$ -- 8
+missing$ -- 307
+newline$ -- 122
+num.names$ -- 92
+pop$ -- 927
+preamble$ -- 2
+purify$ -- 165
+quote$ -- 0
+skip$ -- 918
+stack$ -- 0
+substring$ -- 847
+swap$ -- 2240
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 384
+warning$ -- 0
+while$ -- 136
+width$ -- 0
+write$ -- 260
